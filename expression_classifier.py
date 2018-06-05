@@ -13,7 +13,7 @@ import numpy as np
 ########## 2) BUILD THE SOCKET OBJECT FOR NETWORK COMMUNICATION:  ##########
 # We need socket library of python for building UDP connection:
 import socket
-# The IP address of the computer that VDMX works on:
+# The IP address of the computer that VDMX works on. Please specifcy the ip of other machine here:
 UDP_IP = "123.68.9.1"
 # The app running on other computer is listening to the port below for incoming facial expression data:
 UDP_PORT = 5550
