@@ -2,6 +2,7 @@
 
 we are all cyborgs. we all have two lives; one physical, the other digital. 'when wor(l)ds collide' investigates contentions of the world of cyborg that takes issue with borders, disruptions of representation and creates noise. it has been developed as a fraught landscape, which explores material and significant opportunities for competing experimental language use that directly and interfere with the experience. what are the inherent contradictions, harmonies and conflicts that will arise from such an interaction? that is what we are bound to explore.
 
+# what it (claims to) does
 
 watches your face and classifies what expressions it perceives. it uses a camera and early ai stack to interpret facial patterns as categories: happy, sad, angry, surprised, fear, or neutral.
 
