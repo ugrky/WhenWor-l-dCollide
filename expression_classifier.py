@@ -34,7 +34,7 @@ face_detector = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
 
 ########## 4) CREATING THE EMOTION DETECTOR  ##########
 # We use load_model() method of keras to build the neural network layers:
-from keras.models import load_model
+from tensorflow.keras.models import load_model
 # We create the emotion_classifier object from the trained model with FER data using load_model method of keras:
 emotion_classifier = load_model('FER-2013-trained.hdf5', compile=False)
 ##########  CREATING THE EMOTION DETECTOR  ##########
