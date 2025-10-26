@@ -1,4 +1,4 @@
-# when wor(l)d collide
+# when wor(l)ds collide
 
 we are all cyborgs. we all have two lives; one physical, the other digital. 'when wor(l)ds collide' investigates contentions of the world of cyborg that takes issue with borders, disruptions of representation and creates noise. it has been developed as a fraught landscape, which explores material and significant opportunities for competing experimental language use that directly and interfere with the experience. what are the inherent contradictions, harmonies and conflicts that will arise from such an interaction? that is what we are bound to explore.
 
